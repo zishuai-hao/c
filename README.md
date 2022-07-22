@@ -2,9 +2,8 @@
 
 # c
 学习demo
-<div align="center">
-[![PowerByZs](https://img.shields.io/badge/PowerBy-Zs-green.svg)](https://github.com/zishuai-hao/c/)
-</div>
+
+  [![PowerByZs](https://img.shields.io/badge/PowerBy-Zs-green.svg)](https://github.com/zishuai-hao/c/)
 
 
 ## c-grammer
