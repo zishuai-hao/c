@@ -8,7 +8,7 @@
  * @param argv 
  * @return int 
  */
-int main(int argc, char const *argv[])
+void sort(int argc, char const *argv[])
 {   
     int arr[6] = {6,5,4,3,2,1};
     for (size_t i = 0; i < 6; i++)
@@ -21,19 +21,9 @@ int main(int argc, char const *argv[])
                 max = j;
             }
         }
-        // if (max == 0){
-        //     return;
-        // }
+
         int temp = arr[max];
         arr[max] = arr[6 - 1 - i];
         arr[6 - 1 - i] = temp;
-        // if (max )
     }
-    
-    for (int i = 0; i < 6; i++)
-    {
-        printf("%d,",arr[i]);
-    }
-
-    return 0;
 }

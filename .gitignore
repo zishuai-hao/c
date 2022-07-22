@@ -3,3 +3,6 @@
 /c.code-workspace
 /demo1
 /demo1.dSYM
+/cmake-build-debug
+/c-algorithm/cmake-build-debug
+/.idea
